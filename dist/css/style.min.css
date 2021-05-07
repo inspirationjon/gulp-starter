@@ -1,0 +1,1 @@
+body{background-color:red;display:-webkit-box;display:-ms-flexbox;display:flex}span{font-size:20px}div{font-size:30px}@media (max-width:767px){body{background-color:#00f}span{font-size:15px}div{font-size:20px}}
